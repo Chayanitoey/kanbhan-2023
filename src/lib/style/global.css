@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind&display=swap');
+
+:root {
+    --kbh-hind: 'Hind', sans-serif;
+    --kbh-bricolage: 'Bricolage Grotesque', sans-serif;
+
+    /* Midnight Black */
+    --kbh-black: #000000;
+    /* Creamy Ivory*/
+    --kbh-ivory: #FFFDEE;
+    /* Burnt Orange */
+    --kbh-orange: #D44E03;
+    /* Fiery Red */
+    --kbh-red: #D43503; 
+    /* Snow White */
+    --kbhh-white: #FFFFFF; 
+}
+
+body {
+    background-color: #FFFFFF;
+}
